@@ -1,6 +1,7 @@
 # Lacak-Orang
 
 # Perintah :
+Tools Lacak dibuat untuk memburu akun media sosial dengan nama pengguna di seluruh jejaring sosial
    
     $ pkg install tsu
     $ sudo apt install pip
