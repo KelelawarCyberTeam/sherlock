@@ -1,8 +1,8 @@
 # Lacak-Orang
-
-# Perintah :
 Tools Lacak-Orang dibuat untuk memburu seluruh akun media sosial dengan nama pengguna
    
+# Perintah :
+
     $ pkg install tsu
     $ sudo apt install pip
     $ git clone https://github.com/KelelawarCyberTeam/Lacak-Orang.git
