@@ -1,5 +1,5 @@
 # Lacak-Orang
-Tools Lacak-Orang dibuat untuk memburu seluruh akun media sosial dengan nama pengguna
+Tools sherlock dibuat untuk memburu seluruh akun media sosial dengan nama pengguna
    
 # Perintah :
 
