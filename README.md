@@ -9,4 +9,7 @@ Tools Lacak-Orang dibuat untuk memburu seluruh akun media sosial dengan nama pen
     $ cd Lacak-Orang
     $ python3 -m pip install -r requirements.txt
     $ python3 sherlock --help
-    $ python3 sherlock ran
+    $ python3 sherlock username atau nama pengguna
+    Example: python3 sherlock jamet
+
+
