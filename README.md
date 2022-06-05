@@ -3,6 +3,7 @@ Tools sherlock dibuat untuk memburu seluruh akun media sosial dengan nama penggu
    
 # Perintah :
 
+    $ apt update && apt upgrade
     $ pkg install tsu
     $ sudo apt install pip
     $ git clone https://github.com/KelelawarCyberTeam/Lacak-Orang.git
